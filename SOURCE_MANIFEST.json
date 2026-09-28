@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "package": "selective-source engineering portfolio",
-  "status": "local candidate; copyright notice approved; separate final publication authorization pending",
+  "status": "approved selective-source public portfolio release",
   "rights": "reserved rights / no separate reuse grant; no open-source license",
   "source_policy": "complete modules/scripts byte-identical; excerpts preserve exact line bytes; prose adapted only in export",
   "evidence_policy": "historical results, not independent certification or new export runtime runs",
@@ -20,7 +20,7 @@
     {
       "path": "README.md",
       "kind": "portfolio_document",
-      "sha256": "b087c3530339061c4bbdb972a669efe0141956138688a0a2d7475380cfc9a99c"
+      "sha256": "1c9d6604e2a9f4679c161fdbf5131dad16a5fe95b03886d406b1901809e29d02"
     },
     {
       "path": "docs/ARCHITECTURE.md",

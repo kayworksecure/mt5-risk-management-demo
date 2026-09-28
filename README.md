@@ -34,4 +34,4 @@ The included scripts can technically be compiled using the documented [MT5 toolc
 
 ## Publication status and rights
 
-Copyright © 2026 WORKSECURE. All rights reserved. The owner-approved [copyright notice](COPYRIGHT.md) provides no open-source license or separate reuse grant. Public availability does not technically prevent copying or GitHub forking; applicable law and platform terms still apply. This local candidate awaits separate final owner authorization before any public commit or push.
+Copyright © 2026 WORKSECURE. All rights reserved. The owner-approved [copyright notice](COPYRIGHT.md) provides no open-source license or separate reuse grant. Public availability does not technically prevent copying or GitHub forking; applicable law and platform terms still apply. This repository is the approved selective-source public portfolio release. The complete working implementation remains privately maintained and is not distributed here.
