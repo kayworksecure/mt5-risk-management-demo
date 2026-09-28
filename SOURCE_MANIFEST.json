@@ -1,0 +1,274 @@
+{
+  "schema": 1,
+  "package": "selective-source engineering portfolio",
+  "status": "local candidate; copyright notice approved; separate final publication authorization pending",
+  "rights": "reserved rights / no separate reuse grant; no open-source license",
+  "source_policy": "complete modules/scripts byte-identical; excerpts preserve exact line bytes; prose adapted only in export",
+  "evidence_policy": "historical results, not independent certification or new export runtime runs",
+  "manifest_note": "Manifest excludes its own digest to avoid recursion; private audit inventory seals every file including this manifest.",
+  "files": [
+    {
+      "path": ".gitignore",
+      "kind": "portfolio_document",
+      "sha256": "485f250a95e79eadfe0c59ce124b11599c758e588f145dffce69ad8bfd8f13a0"
+    },
+    {
+      "path": "COPYRIGHT.md",
+      "kind": "owner_approved_rights_notice",
+      "sha256": "a3e4b729f507f418e175472aa35a564f599655efb7591caf18408e3c02f03d62"
+    },
+    {
+      "path": "README.md",
+      "kind": "portfolio_document",
+      "sha256": "b087c3530339061c4bbdb972a669efe0141956138688a0a2d7475380cfc9a99c"
+    },
+    {
+      "path": "docs/ARCHITECTURE.md",
+      "kind": "portfolio_document",
+      "sha256": "288c3316e884a810e267c5f794ea8729cbca90ea4ef03fdc63c9fd2d67e3f265",
+      "master_source": "docs/ARCHITECTURE.md",
+      "master_sha256": "f517a7b77758b4e1680da31c844fac7beaac8b21c4c07ac4ef1bef1f3336f47c",
+      "adapted": true
+    },
+    {
+      "path": "docs/IMPLEMENTATION_MAP.md",
+      "kind": "portfolio_document",
+      "sha256": "d87abbc2df33693dc8a14a43709f395b28716b90130654c103b96e702117449c"
+    },
+    {
+      "path": "docs/LIMITATIONS.md",
+      "kind": "portfolio_document",
+      "sha256": "02cf3977f0d25f5fb043b345c0264a9766c541d516fd992f229cbd6cfa94ec90"
+    },
+    {
+      "path": "docs/RISK_MODEL.md",
+      "kind": "portfolio_document",
+      "sha256": "fd29e99f0fb3161df856594f69f84770e44755ac13a47b5519dca643a6675613",
+      "master_source": "docs/RISK_MODEL.md",
+      "master_sha256": "4376396aa770534032094b5b1f49b25e12ed0723bc08504fc14057f9d31d5931",
+      "adapted": true
+    },
+    {
+      "path": "docs/TESTING.md",
+      "kind": "portfolio_document",
+      "sha256": "976423193dbde6934a07818bb27bfd10cba8cd35e1f2b8ac28834176d4aff8da",
+      "master_source": "docs/TESTING.md",
+      "master_sha256": "19832fdef3e16b2a3074308c11477de9a90b4fe3c508a6d0e08c6f6605c540ff",
+      "adapted": true
+    },
+    {
+      "path": "evidence/phase12-account-path-green.txt",
+      "kind": "reported_private_master_evidence",
+      "master_source": "tests/phase12-account-path-green.txt",
+      "master_sha256": "34e03c0def6c87892422c1a1df5868f2286f62e57c66bcbfd09c1706ce852b38",
+      "sha256": "34e03c0def6c87892422c1a1df5868f2286f62e57c66bcbfd09c1706ce852b38",
+      "byte_identical": true
+    },
+    {
+      "path": "evidence/phase12-account-path-red.txt",
+      "kind": "reported_private_master_evidence",
+      "master_source": "tests/phase12-account-path-red.txt",
+      "master_sha256": "31c1629a4503bd896068ae4782d3b8eb51c5be42a9209ebd8209cc2563c99201",
+      "sha256": "31c1629a4503bd896068ae4782d3b8eb51c5be42a9209ebd8209cc2563c99201",
+      "byte_identical": true
+    },
+    {
+      "path": "evidence/phase12-metal-integration.txt",
+      "kind": "reported_private_master_evidence",
+      "master_source": "tests/phase12-metal-integration.txt",
+      "master_sha256": "72b795b8cf5ce2ca6f80f6849889899300013b044388f9cb9d21fc09b7f8ac33",
+      "sha256": "72b795b8cf5ce2ca6f80f6849889899300013b044388f9cb9d21fc09b7f8ac33",
+      "byte_identical": true
+    },
+    {
+      "path": "evidence/phase2-runtime.txt",
+      "kind": "historical_sample_evidence",
+      "master_source": "tests/phase2-runtime.txt",
+      "master_sha256": "83dc578303ee3de26578a2dff88272c619049b93e88ec5b266c065b86909dc87",
+      "sha256": "83dc578303ee3de26578a2dff88272c619049b93e88ec5b266c065b86909dc87",
+      "byte_identical": true
+    },
+    {
+      "path": "evidence/phase3-runtime.txt",
+      "kind": "historical_sample_evidence",
+      "master_source": "tests/phase3-runtime.txt",
+      "master_sha256": "34d7046b513182aad3279d111249d2459b9593f8a5afcb281e938d30a7f1c40b",
+      "sha256": "34d7046b513182aad3279d111249d2459b9593f8a5afcb281e938d30a7f1c40b",
+      "byte_identical": true
+    },
+    {
+      "path": "evidence/phase4-runtime.txt",
+      "kind": "historical_sample_evidence",
+      "master_source": "tests/phase4-runtime.txt",
+      "master_sha256": "d273f80adafc8a9d4cd165c064f774201fb3c3a918f7ee86588fb7e987b1a841",
+      "sha256": "d273f80adafc8a9d4cd165c064f774201fb3c3a918f7ee86588fb7e987b1a841",
+      "byte_identical": true
+    },
+    {
+      "path": "evidence/phase5-execution-runtime.txt",
+      "kind": "reported_private_master_evidence",
+      "master_source": "tests/phase5-execution-runtime.txt",
+      "master_sha256": "695235447daa9cc72e87e17030baf92a15b914f2491dafaf45ae9d07137fbf27",
+      "sha256": "695235447daa9cc72e87e17030baf92a15b914f2491dafaf45ae9d07137fbf27",
+      "byte_identical": true
+    },
+    {
+      "path": "evidence/phase6-netting-runtime.txt",
+      "kind": "reported_private_master_evidence",
+      "master_source": "tests/phase6-netting-runtime.txt",
+      "master_sha256": "311a96cf56a061041e17206c3352b62411eae0f41baad691215e4e691408dd40",
+      "sha256": "311a96cf56a061041e17206c3352b62411eae0f41baad691215e4e691408dd40",
+      "byte_identical": true
+    },
+    {
+      "path": "evidence/phase7-netting-runtime-final.txt",
+      "kind": "reported_private_master_evidence",
+      "master_source": "tests/phase7-netting-runtime-final.txt",
+      "master_sha256": "4e7eeb8f22ca87aeb4379544de7261c8a39031186d5911ff9bb93470301ee69a",
+      "sha256": "4e7eeb8f22ca87aeb4379544de7261c8a39031186d5911ff9bb93470301ee69a",
+      "byte_identical": true
+    },
+    {
+      "path": "evidence/phase9-admin-runtime.txt",
+      "kind": "reported_private_master_evidence",
+      "master_source": "tests/phase9-admin-runtime.txt",
+      "master_sha256": "d405175e8f67fc95f6c116d926d7fedc2ee3c71783183068baa4ff410a7dd8de",
+      "sha256": "d405175e8f67fc95f6c116d926d7fedc2ee3c71783183068baa4ff410a7dd8de",
+      "byte_identical": true
+    },
+    {
+      "path": "evidence/phase9-physical-restart.txt",
+      "kind": "reported_private_master_evidence",
+      "master_source": "tests/phase9-physical-restart.txt",
+      "master_sha256": "541abda1fbf64c6a02b32f1935d2d78b9b4f2e6935789d737823a4fed17ea410",
+      "sha256": "541abda1fbf64c6a02b32f1935d2d78b9b4f2e6935789d737823a4fed17ea410",
+      "byte_identical": true
+    },
+    {
+      "path": "evidence/phase9-recovery-hedging.txt",
+      "kind": "reported_private_master_evidence",
+      "master_source": "tests/phase9-recovery-hedging.txt",
+      "master_sha256": "9c89bfb3014a63535cd08b43b4f4edaa5bf03ff528d8d1313d3264f7896e88ef",
+      "sha256": "9c89bfb3014a63535cd08b43b4f4edaa5bf03ff528d8d1313d3264f7896e88ef",
+      "byte_identical": true
+    },
+    {
+      "path": "evidence/phase9-recovery-netting.txt",
+      "kind": "reported_private_master_evidence",
+      "master_source": "tests/phase9-recovery-netting.txt",
+      "master_sha256": "68283265426881a912f7a153b6bf7f9353e7480ac9f6f38b3d7c1d88e03c978a",
+      "sha256": "68283265426881a912f7a153b6bf7f9353e7480ac9f6f38b3d7c1d88e03c978a",
+      "byte_identical": true
+    },
+    {
+      "path": "evidence/phase9-storage-runtime.txt",
+      "kind": "reported_private_master_evidence",
+      "master_source": "tests/phase9-storage-runtime.txt",
+      "master_sha256": "28a18eceb6ddd50da862f69ba1a19fed23444dd06c5a07fe6fe8ae4dc1a41094",
+      "sha256": "28a18eceb6ddd50da862f69ba1a19fed23444dd06c5a07fe6fe8ae4dc1a41094",
+      "byte_identical": true
+    },
+    {
+      "path": "evidence/private-master-compile.txt",
+      "kind": "reported_private_master_evidence",
+      "master_source": "tests/phase12-compile.txt",
+      "master_sha256": "9439b4eff62b7d9c6d7baab67a4198b2d050ad6cf6c88868ed05fed78b7832c3",
+      "sha256": "9439b4eff62b7d9c6d7baab67a4198b2d050ad6cf6c88868ed05fed78b7832c3",
+      "byte_identical": true
+    },
+    {
+      "path": "examples/example-settings.md",
+      "kind": "portfolio_document",
+      "sha256": "272c9bfdb2218118e731916450e2c8edd59a15ef7434a601dbba1ae22f4d46ee",
+      "master_source": "examples/example-settings.md",
+      "master_sha256": "3d3eae91ed5dfc56a06adda791d2147efda8d49cd146b5a3368a7e7e9f7d5129",
+      "adapted": true
+    },
+    {
+      "path": "excerpts/EXECUTION_PREFLIGHT.md",
+      "kind": "verbatim_excerpt",
+      "master_source": "include/TradeManager.mqh",
+      "master_sha256": "6d5f532c12630d71798ee9b63ea40fabe09a7e5a20f69508e4b6d4c1593792f0",
+      "line_start": 6,
+      "line_end": 68,
+      "payload_sha256": "9f9149023c10039391d9c8f0f5e4cc4fa7d414757e93afa902edf91dba0a6e65",
+      "sha256": "1b8d4ba004183723c4c41d6c54ad003149423d4dd7711335ab210a3804bb273d",
+      "byte_identical_payload": true
+    },
+    {
+      "path": "excerpts/PROTECTION_CALCULATION.md",
+      "kind": "verbatim_excerpt",
+      "master_source": "include/PositionManager.mqh",
+      "master_sha256": "994ea7a7decb3d3cdeafd06290e43615c851d8b1a5e99c899f1c3096a8b2f24a",
+      "line_start": 4,
+      "line_end": 54,
+      "payload_sha256": "1b3be40942f0c6da0baf733d26d03a71eefb92adbfdc2dbd93920530edee3d82",
+      "sha256": "52aef1c03fac93972ffbff8f6dabd0aff1244a6e45fd68574760484359d6f3db",
+      "byte_identical_payload": true
+    },
+    {
+      "path": "include/EntryFilters.mqh",
+      "kind": "complete_genuine_module",
+      "master_source": "include/EntryFilters.mqh",
+      "master_sha256": "af7a4acdbb79946640be62a4f9847b46eb91023d4b2d007e5752d5ed744969f3",
+      "sha256": "af7a4acdbb79946640be62a4f9847b46eb91023d4b2d007e5752d5ed744969f3",
+      "byte_identical": true
+    },
+    {
+      "path": "include/Logger.mqh",
+      "kind": "complete_genuine_module",
+      "master_source": "include/Logger.mqh",
+      "master_sha256": "d6b6a3be7159e296f3fd4e0afa267df6aaaeb7d13433fdcbedcaea9caa88790e",
+      "sha256": "d6b6a3be7159e296f3fd4e0afa267df6aaaeb7d13433fdcbedcaea9caa88790e",
+      "byte_identical": true
+    },
+    {
+      "path": "include/MarketEnvironment.mqh",
+      "kind": "complete_genuine_module",
+      "master_source": "include/MarketEnvironment.mqh",
+      "master_sha256": "9246be821a27ecd64125c9438a9a9aec018943792bba9349bd31eb96779611d2",
+      "sha256": "9246be821a27ecd64125c9438a9a9aec018943792bba9349bd31eb96779611d2",
+      "byte_identical": true
+    },
+    {
+      "path": "include/RiskManager.mqh",
+      "kind": "complete_genuine_module",
+      "master_source": "include/RiskManager.mqh",
+      "master_sha256": "93b12bbe14005032cfd4b5fe902b0cd3e53e9403b39b3980636b141040d6e8e5",
+      "sha256": "93b12bbe14005032cfd4b5fe902b0cd3e53e9403b39b3980636b141040d6e8e5",
+      "byte_identical": true
+    },
+    {
+      "path": "include/SignalEngine.mqh",
+      "kind": "complete_genuine_module",
+      "master_source": "include/SignalEngine.mqh",
+      "master_sha256": "68a4ac4a1b75a61b42a81dabfe66e74dd4451918d1d239f8fc216a28690c8a1f",
+      "sha256": "68a4ac4a1b75a61b42a81dabfe66e74dd4451918d1d239f8fc216a28690c8a1f",
+      "byte_identical": true
+    },
+    {
+      "path": "tests/EnvironmentTests.mq5",
+      "kind": "complete_genuine_test",
+      "master_source": "tests/EnvironmentTests.mq5",
+      "master_sha256": "8b80dcb7806fd4c1d3ae386ef70ee920554d876b2375b2f0fcac8601b3972c55",
+      "sha256": "8b80dcb7806fd4c1d3ae386ef70ee920554d876b2375b2f0fcac8601b3972c55",
+      "byte_identical": true
+    },
+    {
+      "path": "tests/RiskTests.mq5",
+      "kind": "complete_genuine_test",
+      "master_source": "tests/RiskTests.mq5",
+      "master_sha256": "978f0cfb44a692523a32f48b07f6b228f4bfd5aefbf53ea9e88e01673f8483d1",
+      "sha256": "978f0cfb44a692523a32f48b07f6b228f4bfd5aefbf53ea9e88e01673f8483d1",
+      "byte_identical": true
+    },
+    {
+      "path": "tests/SignalTests.mq5",
+      "kind": "complete_genuine_test",
+      "master_source": "tests/SignalTests.mq5",
+      "master_sha256": "4dbe94a3c1ae5a08349c62411f6e95e2f4997f75d6252629e705d961cd7f29ce",
+      "sha256": "4dbe94a3c1ae5a08349c62411f6e95e2f4997f75d6252629e705d961cd7f29ce",
+      "byte_identical": true
+    }
+  ]
+}

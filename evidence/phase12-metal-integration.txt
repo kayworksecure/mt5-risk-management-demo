@@ -1,0 +1,18 @@
+[SAFETY] Explicit first deployment provisioned from current equity; history checkpoint committed.
+[INIT] Account mode: HEDGING.
+[SAFETY] Safety snapshot and account history restored; existing locks preserved.
+[INIT] RiskManagementDemo initialized; entries require validated ownership, safety and broker checks.
+[SAFETY] Safety references and latched flags restored without rebasing.
+[SAFETY] New server day 2026.09.02: daily reference established from current equity.
+[SIGNAL] XAUUSDm PERIOD_H1 completed=2026.09.02 14:00 direction=BUY.
+[TRADE] Submission returned=true code=10009; awaiting transaction/history confirmation.
+[TRADE] Confirmed owned market deal observed; daily count is history-authoritative.
+[FILTER] Confirmed account-wide daily entries=1.
+[TRADE] Confirmed owned market deal observed; daily count is history-authoritative.
+[SAFETY] New server day 2026.09.03: daily reference established from current equity.
+[SAFETY] New server day 2026.09.04: daily reference established from current equity.
+[SIGNAL] XAUUSDm PERIOD_H1 completed=2026.09.04 12:00 direction=SELL.
+[TRADE] Submission returned=true code=10009; awaiting transaction/history confirmation.
+[TRADE] Confirmed owned market deal observed; daily count is history-authoritative.
+[TRADE] Confirmed owned market deal observed; daily count is history-authoritative.
+[INIT] RiskManagementDemo shutdown; reason=1.

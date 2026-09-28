@@ -1,0 +1,1295 @@
+[TEST] EXPLICIT_TRANSITION_0: PASS
+[TEST] RESET_RESTART_PRESERVES_DAILY_0: PASS
+[TEST] INDEPENDENT_REFERENCES_RESTORE_AND_UPDATE_0: PASS
+[SAFETY] Unsafe safety snapshot transition rejected; entries blocked.
+[TEST] ORDINARY_SAVE_STILL_CANNOT_LOWER_PEAK_0: PASS
+[SAFETY] Administrative safety transition unauthorized.
+[TEST] DENIED_NO_RESET_0_0: PASS
+[SAFETY] Administrative safety transition unauthorized.
+[TEST] DENIED_NO_RESET_0_1: PASS
+[SAFETY] Administrative action not selected.
+[TEST] DENIED_NO_RESET_0_2: PASS
+[SAFETY] Administrative safety sample invalid.
+[TEST] DENIED_NO_RESET_0_3: PASS
+[SAFETY] Administrative safety sample invalid.
+[TEST] DENIED_NO_RESET_0_4: PASS
+[TEST] NEW_DAY_ADMIN_0: PASS
+[TEST] EXPLICIT_TRANSITION_1: PASS
+[TEST] RESET_RESTART_PRESERVES_DAILY_1: PASS
+[TEST] INDEPENDENT_REFERENCES_RESTORE_AND_UPDATE_1: PASS
+[SAFETY] Unsafe safety snapshot transition rejected; entries blocked.
+[TEST] ORDINARY_SAVE_STILL_CANNOT_LOWER_PEAK_1: PASS
+[SAFETY] Administrative safety transition unauthorized.
+[TEST] DENIED_NO_RESET_1_0: PASS
+[SAFETY] Administrative safety transition unauthorized.
+[TEST] DENIED_NO_RESET_1_1: PASS
+[SAFETY] Administrative action not selected.
+[TEST] DENIED_NO_RESET_1_2: PASS
+[SAFETY] Administrative safety sample invalid.
+[TEST] DENIED_NO_RESET_1_3: PASS
+[SAFETY] Administrative safety sample invalid.
+[TEST] DENIED_NO_RESET_1_4: PASS
+[TEST] NEW_DAY_ADMIN_1: PASS
+[SAFETY] Drawdown reset requires a latched drawdown without cash-flow revalidation.
+[TEST] DD_CANNOT_CLEAR_CASH_LATCH: PASS
+[SAFETY] Drawdown reset requires a latched drawdown without cash-flow revalidation.
+[TEST] NEW_CASH_OR_NO_CASH_ACTION_GUARD_0: PASS
+[SAFETY] Cash-flow revalidation requires an observed financial operation or latch.
+[TEST] NEW_CASH_OR_NO_CASH_ACTION_GUARD_1: PASS
+[TEST] RESET_BOUNDARY_SETUP: PASS
+[TEST] ADMIN_WRITE_BOUNDARIES=122
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_0_0_1: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_0_0_2: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_0_0_3: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_0_0_4: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_0_0_5: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_0_0_6: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_0_0_7: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_0_0_8: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_0_0_9: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_0_0_10: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_0_0_11: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_0_0_12: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_0_0_13: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_0_0_14: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_0_0_15: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_0_0_16: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_0_0_17: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_0_0_18: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_0_0_19: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_0_0_20: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_0_0_21: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_0_0_22: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_0_0_23: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_0_0_24: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_0_0_25: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_0_0_26: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_0_0_27: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_0_0_28: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_0_0_29: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_0_0_30: PASS
+[SAFETY] Administrative invalidation failed.
+[TEST] ADMIN_INTERRUPTION_0_0_31: PASS
+[SAFETY] Administrative invalidation readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_0_32: PASS
+[SAFETY] Administrative invalidation readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_0_33: PASS
+[SAFETY] Snapshot payload write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_0_34: PASS
+[SAFETY] Snapshot payload write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_0_35: PASS
+[SAFETY] Snapshot payload write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_0_36: PASS
+[SAFETY] Snapshot payload write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_0_37: PASS
+[SAFETY] Snapshot payload write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_0_38: PASS
+[SAFETY] Snapshot payload write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_0_39: PASS
+[SAFETY] Snapshot payload write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_0_40: PASS
+[SAFETY] Snapshot payload write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_0_41: PASS
+[SAFETY] Snapshot payload write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_0_42: PASS
+[SAFETY] Snapshot payload write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_0_43: PASS
+[SAFETY] Snapshot payload write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_0_44: PASS
+[SAFETY] Snapshot payload write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_0_45: PASS
+[SAFETY] Snapshot payload write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_0_46: PASS
+[SAFETY] Snapshot payload write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_0_47: PASS
+[SAFETY] Snapshot payload write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_0_48: PASS
+[SAFETY] Snapshot payload write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_0_49: PASS
+[SAFETY] Snapshot payload write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_0_50: PASS
+[SAFETY] Snapshot payload write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_0_51: PASS
+[SAFETY] Snapshot digest write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_0_52: PASS
+[SAFETY] Snapshot digest write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_0_53: PASS
+[SAFETY] Snapshot digest write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_0_54: PASS
+[SAFETY] Snapshot digest write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_0_55: PASS
+[SAFETY] Snapshot digest write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_0_56: PASS
+[SAFETY] Snapshot digest write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_0_57: PASS
+[SAFETY] Snapshot digest write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_0_58: PASS
+[SAFETY] Snapshot digest write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_0_59: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_0_60: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_0_61: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_0_62: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_0_63: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_0_64: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_0_65: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_0_66: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_0_67: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_0_68: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_0_69: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_0_70: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_0_71: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_0_72: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_0_73: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_0_74: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_0_75: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_0_76: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_0_77: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_0_78: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_0_79: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_0_80: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_0_81: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_0_82: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_0_83: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_0_84: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_0_85: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_0_86: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_0_87: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_0_88: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_0_89: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_0_90: PASS
+[SAFETY] Snapshot commit marker write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_0_91: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_0_0_92: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_0_0_93: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_0_0_94: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_0_0_95: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_0_0_96: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_0_0_97: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_0_0_98: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_0_0_99: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_0_0_100: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_0_0_101: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_0_0_102: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_0_0_103: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_0_0_104: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_0_0_105: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_0_0_106: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_0_0_107: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_0_0_108: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_0_0_109: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_0_0_110: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_0_0_111: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_0_0_112: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_0_0_113: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_0_0_114: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_0_0_115: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_0_0_116: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_0_0_117: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_0_0_118: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_0_0_119: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_0_0_120: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_0_0_121: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_0_0_122: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_0_1_1: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_0_1_2: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_0_1_3: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_0_1_4: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_0_1_5: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_0_1_6: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_0_1_7: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_0_1_8: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_0_1_9: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_0_1_10: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_0_1_11: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_0_1_12: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_0_1_13: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_0_1_14: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_0_1_15: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_0_1_16: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_0_1_17: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_0_1_18: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_0_1_19: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_0_1_20: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_0_1_21: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_0_1_22: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_0_1_23: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_0_1_24: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_0_1_25: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_0_1_26: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_0_1_27: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_0_1_28: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_0_1_29: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_0_1_30: PASS
+[SAFETY] Administrative invalidation failed.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_1_31: PASS
+[SAFETY] Administrative invalidation readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_1_32: PASS
+[SAFETY] Administrative invalidation readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_1_33: PASS
+[SAFETY] Snapshot payload write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_1_34: PASS
+[SAFETY] Snapshot payload write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_1_35: PASS
+[SAFETY] Snapshot payload write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_1_36: PASS
+[SAFETY] Snapshot payload write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_1_37: PASS
+[SAFETY] Snapshot payload write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_1_38: PASS
+[SAFETY] Snapshot payload write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_1_39: PASS
+[SAFETY] Snapshot payload write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_1_40: PASS
+[SAFETY] Snapshot payload write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_1_41: PASS
+[SAFETY] Snapshot payload write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_1_42: PASS
+[SAFETY] Snapshot payload write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_1_43: PASS
+[SAFETY] Snapshot payload write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_1_44: PASS
+[SAFETY] Snapshot payload write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_1_45: PASS
+[SAFETY] Snapshot payload write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_1_46: PASS
+[SAFETY] Snapshot payload write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_1_47: PASS
+[SAFETY] Snapshot payload write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_1_48: PASS
+[SAFETY] Snapshot payload write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_1_49: PASS
+[SAFETY] Snapshot payload write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_1_50: PASS
+[SAFETY] Snapshot payload write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_1_51: PASS
+[SAFETY] Snapshot digest write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_1_52: PASS
+[SAFETY] Snapshot digest write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_1_53: PASS
+[SAFETY] Snapshot digest write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_1_54: PASS
+[SAFETY] Snapshot digest write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_1_55: PASS
+[SAFETY] Snapshot digest write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_1_56: PASS
+[SAFETY] Snapshot digest write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_1_57: PASS
+[SAFETY] Snapshot digest write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_1_58: PASS
+[SAFETY] Snapshot digest write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_1_59: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_1_60: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_1_61: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_1_62: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_1_63: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_1_64: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_1_65: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_1_66: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_1_67: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_1_68: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_1_69: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_1_70: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_1_71: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_1_72: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_1_73: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_1_74: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_1_75: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_1_76: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_1_77: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_1_78: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_1_79: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_1_80: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_1_81: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_1_82: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_1_83: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_1_84: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_1_85: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_1_86: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_1_87: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_1_88: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_1_89: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_0_1_90: PASS
+[SAFETY] Snapshot commit marker write failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_0_1_91: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_0_1_92: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_0_1_93: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_0_1_94: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_0_1_95: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_0_1_96: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_0_1_97: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_0_1_98: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_0_1_99: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_0_1_100: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_0_1_101: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_0_1_102: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_0_1_103: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_0_1_104: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_0_1_105: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_0_1_106: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_0_1_107: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_0_1_108: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_0_1_109: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_0_1_110: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_0_1_111: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_0_1_112: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_0_1_113: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_0_1_114: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_0_1_115: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_0_1_116: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_0_1_117: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_0_1_118: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_0_1_119: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_0_1_120: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_0_1_121: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_0_1_122: PASS
+[TEST] RESET_BOUNDARY_SETUP: PASS
+[TEST] ADMIN_WRITE_BOUNDARIES=122
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_1_0_1: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_1_0_2: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_1_0_3: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_1_0_4: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_1_0_5: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_1_0_6: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_1_0_7: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_1_0_8: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_1_0_9: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_1_0_10: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_1_0_11: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_1_0_12: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_1_0_13: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_1_0_14: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_1_0_15: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_1_0_16: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_1_0_17: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_1_0_18: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_1_0_19: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_1_0_20: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_1_0_21: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_1_0_22: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_1_0_23: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_1_0_24: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_1_0_25: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_1_0_26: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_1_0_27: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_1_0_28: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_1_0_29: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_1_0_30: PASS
+[SAFETY] Administrative invalidation failed.
+[TEST] ADMIN_INTERRUPTION_1_0_31: PASS
+[SAFETY] Administrative invalidation readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_0_32: PASS
+[SAFETY] Administrative invalidation readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_0_33: PASS
+[SAFETY] Snapshot payload write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_0_34: PASS
+[SAFETY] Snapshot payload write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_0_35: PASS
+[SAFETY] Snapshot payload write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_0_36: PASS
+[SAFETY] Snapshot payload write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_0_37: PASS
+[SAFETY] Snapshot payload write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_0_38: PASS
+[SAFETY] Snapshot payload write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_0_39: PASS
+[SAFETY] Snapshot payload write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_0_40: PASS
+[SAFETY] Snapshot payload write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_0_41: PASS
+[SAFETY] Snapshot payload write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_0_42: PASS
+[SAFETY] Snapshot payload write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_0_43: PASS
+[SAFETY] Snapshot payload write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_0_44: PASS
+[SAFETY] Snapshot payload write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_0_45: PASS
+[SAFETY] Snapshot payload write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_0_46: PASS
+[SAFETY] Snapshot payload write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_0_47: PASS
+[SAFETY] Snapshot payload write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_0_48: PASS
+[SAFETY] Snapshot payload write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_0_49: PASS
+[SAFETY] Snapshot payload write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_0_50: PASS
+[SAFETY] Snapshot payload write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_0_51: PASS
+[SAFETY] Snapshot digest write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_0_52: PASS
+[SAFETY] Snapshot digest write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_0_53: PASS
+[SAFETY] Snapshot digest write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_0_54: PASS
+[SAFETY] Snapshot digest write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_0_55: PASS
+[SAFETY] Snapshot digest write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_0_56: PASS
+[SAFETY] Snapshot digest write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_0_57: PASS
+[SAFETY] Snapshot digest write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_0_58: PASS
+[SAFETY] Snapshot digest write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_0_59: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_0_60: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_0_61: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_0_62: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_0_63: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_0_64: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_0_65: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_0_66: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_0_67: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_0_68: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_0_69: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_0_70: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_0_71: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_0_72: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_0_73: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_0_74: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_0_75: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_0_76: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_0_77: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_0_78: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_0_79: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_0_80: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_0_81: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_0_82: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_0_83: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_0_84: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_0_85: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_0_86: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_0_87: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_0_88: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_0_89: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_0_90: PASS
+[SAFETY] Snapshot commit marker write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_0_91: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_1_0_92: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_1_0_93: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_1_0_94: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_1_0_95: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_1_0_96: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_1_0_97: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_1_0_98: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_1_0_99: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_1_0_100: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_1_0_101: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_1_0_102: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_1_0_103: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_1_0_104: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_1_0_105: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_1_0_106: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_1_0_107: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_1_0_108: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_1_0_109: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_1_0_110: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_1_0_111: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_1_0_112: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_1_0_113: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_1_0_114: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_1_0_115: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_1_0_116: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_1_0_117: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_1_0_118: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_1_0_119: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_1_0_120: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_1_0_121: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_1_0_122: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_1_1_1: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_1_1_2: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_1_1_3: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_1_1_4: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_1_1_5: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_1_1_6: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_1_1_7: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_1_1_8: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_1_1_9: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_1_1_10: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_1_1_11: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_1_1_12: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_1_1_13: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_1_1_14: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_1_1_15: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_1_1_16: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_1_1_17: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_1_1_18: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_1_1_19: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_1_1_20: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_1_1_21: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_1_1_22: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_1_1_23: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_1_1_24: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_1_1_25: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_1_1_26: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_1_1_27: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_1_1_28: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_1_1_29: PASS
+[SAFETY] Administrative snapshot changed or invalid.
+[TEST] ADMIN_INTERRUPTION_1_1_30: PASS
+[SAFETY] Administrative invalidation failed.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_1_31: PASS
+[SAFETY] Administrative invalidation readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_1_32: PASS
+[SAFETY] Administrative invalidation readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_1_33: PASS
+[SAFETY] Snapshot payload write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_1_34: PASS
+[SAFETY] Snapshot payload write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_1_35: PASS
+[SAFETY] Snapshot payload write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_1_36: PASS
+[SAFETY] Snapshot payload write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_1_37: PASS
+[SAFETY] Snapshot payload write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_1_38: PASS
+[SAFETY] Snapshot payload write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_1_39: PASS
+[SAFETY] Snapshot payload write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_1_40: PASS
+[SAFETY] Snapshot payload write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_1_41: PASS
+[SAFETY] Snapshot payload write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_1_42: PASS
+[SAFETY] Snapshot payload write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_1_43: PASS
+[SAFETY] Snapshot payload write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_1_44: PASS
+[SAFETY] Snapshot payload write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_1_45: PASS
+[SAFETY] Snapshot payload write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_1_46: PASS
+[SAFETY] Snapshot payload write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_1_47: PASS
+[SAFETY] Snapshot payload write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_1_48: PASS
+[SAFETY] Snapshot payload write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_1_49: PASS
+[SAFETY] Snapshot payload write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_1_50: PASS
+[SAFETY] Snapshot payload write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_1_51: PASS
+[SAFETY] Snapshot digest write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_1_52: PASS
+[SAFETY] Snapshot digest write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_1_53: PASS
+[SAFETY] Snapshot digest write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_1_54: PASS
+[SAFETY] Snapshot digest write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_1_55: PASS
+[SAFETY] Snapshot digest write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_1_56: PASS
+[SAFETY] Snapshot digest write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_1_57: PASS
+[SAFETY] Snapshot digest write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_1_58: PASS
+[SAFETY] Snapshot digest write failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_1_59: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_1_60: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_1_61: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_1_62: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_1_63: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_1_64: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_1_65: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_1_66: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_1_67: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_1_68: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_1_69: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_1_70: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_1_71: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_1_72: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_1_73: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_1_74: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_1_75: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_1_76: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_1_77: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_1_78: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_1_79: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_1_80: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_1_81: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_1_82: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_1_83: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_1_84: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_1_85: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_1_86: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_1_87: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_1_88: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_1_89: PASS
+[SAFETY] Incomplete snapshot readback failed. Durable invalidation could not be established.
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] ADMIN_INTERRUPTION_1_1_90: PASS
+[SAFETY] Snapshot commit marker write failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_1_1_91: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_1_1_92: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_1_1_93: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_1_1_94: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_1_1_95: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_1_1_96: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_1_1_97: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_1_1_98: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_1_1_99: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_1_1_100: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_1_1_101: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_1_1_102: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_1_1_103: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_1_1_104: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_1_1_105: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_1_1_106: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_1_1_107: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_1_1_108: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_1_1_109: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_1_1_110: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_1_1_111: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_1_1_112: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_1_1_113: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_1_1_114: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_1_1_115: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_1_1_116: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_1_1_117: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_1_1_118: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_1_1_119: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_1_1_120: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_1_1_121: PASS
+[SAFETY] Committed snapshot readback failed. Durable invalidation could not be established.
+[TEST] ADMIN_INTERRUPTION_1_1_122: PASS
+[TEST] WRONG_ATTESTATION_NO_WRITE: PASS
+[TEST] CANCEL_NO_WRITE: PASS
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] MISSING_STATE_NOT_ADMIN_RECOVERY: PASS
+[SAFETY] Explicit first deployment provisioned from current equity; history checkpoint committed.
+[TEST] ADMIN_WORKFLOW_PROVISION: PASS
+[TEST] ADMIN_WORKFLOW_LOCKS: PASS
+[TEST] ACTIVE_AUTHORITY_PREVENTS_RESET: PASS
+[TEST] NON_FLAT_ACCOUNT_REJECTED: PASS
+[TEST] PENDING_ORDERS_REJECTED: PASS
+[TEST] PREWRITE_ACCOUNT_CHANGE_REJECTED: PASS
+[SAFETY] Administrative review action=DEMO_RESET_DRAWDOWN before reference=10000.00 peak=12000.00 daily=1 drawdown=1 revalidation=0.
+[SAFETY] Administrative action committed=DEMO_RESET_DRAWDOWN after reference=10000.00 peak=10000.00 daily=1 drawdown=0 revalidation=0; normal EA recovery required.
+[TEST] DELIBERATE_DRAWDOWN_WORKFLOW: PASS
+[TEST] DAILY_LOCK_SURVIVES_ADMIN_AND_RESTART: PASS
+[SAFETY] Administrative review action=DEMO_RESET_DRAWDOWN before reference=10000.00 peak=10000.00 daily=1 drawdown=0 revalidation=0.
+[SAFETY] Drawdown reset requires a latched drawdown without cash-flow revalidation.
+[TEST] NO_REPEAT_RESET_WITHOUT_LATCH: PASS
+[TEST] ADMIN_CASH_FIXTURE: PASS
+[SAFETY] Administrative review action=DEMO_REVALIDATE_CASH_FLOW before reference=10000.00 peak=10000.00 daily=1 drawdown=0 revalidation=0.
+[SAFETY] Administrative action committed=DEMO_REVALIDATE_CASH_FLOW after reference=10100.00 peak=10100.00 daily=1 drawdown=0 revalidation=0; normal EA recovery required.
+[TEST] EXPLICIT_NEW_CASH_ACKNOWLEDGED: PASS
+[TEST] CASH_REFERENCES_AND_DAILY_LOCK: PASS
+[TEST] INDEPENDENT_RUNTIME_REFERENCES_FIXTURE: PASS
+[TEST] INDEPENDENT_RUNTIME_RECOVERY: PASS
+[TEST] INDEPENDENT_RUNTIME_FORMULAS_AND_PERSISTENCE: PASS
+[TEST] POSTWRITE_CHANGE_FIXTURE: PASS
+[SAFETY] Administrative review action=DEMO_RESET_DRAWDOWN before reference=10100.00 peak=10100.00 daily=1 drawdown=1 revalidation=0.
+[SAFETY] Safety recovery uncertain; persisted snapshot invalidated.
+[TEST] POSTWRITE_CHANGE_REJECTED: PASS
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] POSTWRITE_CHANGE_BLOCKS_FRESH_RECOVERY: PASS
+[TEST] STRUCTURALLY_VALID_UNRECONCILED_HISTORY_FIXTURE: PASS
+[TEST] UNRECONCILED_HISTORY_CANNOT_RESET: PASS
+[SAFETY] Safety snapshot missing, incomplete or invalid; entries blocked.
+[TEST] CORRUPT_STATE_NOT_ADMIN_RECOVERY: PASS
+[TEST] ADMIN_RESULT checks=537 failures=0

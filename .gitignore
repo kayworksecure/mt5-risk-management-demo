@@ -1,0 +1,14 @@
+# Local artifacts are never part of this selective-source portfolio.
+*.ex5
+*.log
+*.tmp
+*.zip
+*.7z
+.env
+.env.*
+internal/
+src/
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini

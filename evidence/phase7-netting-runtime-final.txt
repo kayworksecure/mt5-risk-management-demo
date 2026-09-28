@@ -1,0 +1,18 @@
+Phase 7 final netting protection runtime evidence — 2026-09-26
+
+Source: PositionManagementTests.ex5, Strategy Tester, XAUUSDm H1.
+Final result: PROTECTION_RESULT failures=0.
+
+Passed areas:
+- 13 calculation assertions for breakeven/trailing direction, tick grid,
+  trigger boundaries, broker stops and freeze levels.
+- Owned stop modification, broker/request acknowledgement, and exact position
+  snapshot confirmation.
+- Duplicate proposal suppression and ownership retention after automatic
+  protection.
+- Entry blocking by session and spread while protection remains active.
+- External ambiguous stop invalidation, blocked follow-up modification, and
+  unchanged ambiguous position.
+
+The log also contains earlier intermediate runs; only the final zero-failure
+run above is acceptance evidence.
